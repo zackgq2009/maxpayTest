@@ -1,0 +1,10 @@
+{
+  "applicationName" : "maxpayTest",
+  "applicationId": "568a12086e912100017722e5",
+  "applicationKey": "VndFblU2ZGw3X1d1d2tNZnNqd3Npdw",
+  "lang" : "java",
+  "javaMain": "Main",
+  "packageHook" : "hook",
+  "packageClasses" : "bean",
+  "version": "0.1.2"
+}
